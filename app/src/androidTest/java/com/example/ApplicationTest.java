@@ -1,4 +1,4 @@
-package com.example.viewpagerdemo;
+package com.example;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
